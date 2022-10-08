@@ -1,6 +1,6 @@
 ## Hi I'm Nolo 👋
 
-### I'm a freelance community designer. I specialize on customizing  Discourse. 
+### I'm a community designer. I specialize on customizing  Discourse. 
 
 #### 👀 View recent projects on my personal page: [nolosabes.com](https://nolosabes.com)
 
