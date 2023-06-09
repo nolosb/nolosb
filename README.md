@@ -1,4 +1,4 @@
-# 👋 🌈
+# 👋 
 
 I'm a community designer.
 
